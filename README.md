@@ -1,10 +1,10 @@
 <div align="center">
 <h1 align="center">Hi, I'm Julian Mercado</div>
-</div>
-======================================================================================================================================
 
+-----------------------------------------------
 Software Engineer | WordPress Backend Developer
 -----------------------------------------------
+</div>
 
 Driven Software Engineer with 3+ years of experience crafting robust web applications. Skilled in both backend (PHP, Spring Framework, Java) and frontend (HTML, CSS, JavaScript, TypeScript) development. Adept at utilizing various databases (PostgreSQL, MySQL, SQL Server, MongoDB) and adhering to secure development lifecycle principles.
 
