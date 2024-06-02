@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Julian Mercado
+<div align="center">
+<h1 align="center">Hi, I'm Julian Mercado ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </div>
+</div>
 ======================================================================================================================================
 
 Software Engineer | WordPress Backend Developer
