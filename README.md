@@ -1,12 +1,13 @@
-<div align="center">
-<h1 align="center">Hi, I'm Julian Mercado</div>
-</div>
-<h2 align="center">## Software Engineer | WordPress Backend Developer</h2>
+# Hi 👋 My name is Julian Mercado
+
+## Software Engineer | WordPress Backend Developer
+
 Driven Software Engineer with 3+ years of experience crafting robust web applications. Skilled in both backend (PHP, Spring Framework, Java) and frontend (HTML, CSS, JavaScript, TypeScript) development. Adept at utilizing various databases (PostgreSQL, MySQL, SQL Server, MongoDB) and adhering to secure development lifecycle principles.
 
 - 🌍  I'm based in Montclair, NJ
+- 🖥️  See my portfolio at [My Portfolio](http://jularmerme.github.io/professional-portfolio/)
 - ✉️  You can contact me at [julianmercadomeza@gmail.com](mailto:julianmercadomeza@gmail.com)
-- 🧠  I'm learning Data Structures and Algorithms
+- 🧠  I'm learning Spring Boot Microservices
 - 🤝  I'm open to collaborating on Spring Boot and Angular Projects | Microservices
 
 <a href="https://www.github.com/jularmerme" target="_blank" rel="noreferrer"><img
