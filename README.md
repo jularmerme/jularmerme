@@ -5,7 +5,7 @@
 Driven Software Engineer with 3+ years of experience crafting robust web applications. Skilled in both backend (PHP, Spring Framework, Java) and frontend (HTML, CSS, JavaScript, TypeScript) development. Adept at utilizing various databases (PostgreSQL, MySQL, SQL Server, MongoDB) and adhering to secure development lifecycle principles.
 
 - 🌍  I'm based in Montclair, NJ
-- 🖥️  See my portfolio at [My Portfolio](http://jularmerme.github.io/professional-portfolio/)
+- 🖥️  See my portfolio at [My Portfolio](http://julianmercado.site)
 - ✉️  You can contact me at [julianmercadomeza@gmail.com](mailto:julianmercadomeza@gmail.com)
 - 🧠  I'm learning Spring Boot Microservices
 - 🤝  I'm open to collaborating on Spring Boot and Angular Projects | Microservices
