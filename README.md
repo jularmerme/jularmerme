@@ -4,6 +4,7 @@
 
 Driven Software Engineer with 3+ years of experience crafting robust web applications. Skilled in both backend (PHP, Spring Framework, Java) and frontend (HTML, CSS, JavaScript, TypeScript) development. Adept at utilizing various databases (PostgreSQL, MySQL, SQL Server, MongoDB) and adhering to secure development lifecycle principles.
 
+<<<<<<< HEAD
 - 🌍  I'm based in Pawtucket, RI
 - 🖥️  See my portfolio at [My Portfolio](http://julianmercado.site)
 - ✉️  You can contact me at [julianmercadomeza@gmail.com](mailto:julianmercadomeza@gmail.com)
