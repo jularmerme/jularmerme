@@ -4,8 +4,8 @@
 
 Driven Software Engineer with 3+ years of experience crafting robust web applications. Skilled in both backend (PHP, Spring Framework, Java) and frontend (HTML, CSS, JavaScript, TypeScript) development. Adept at utilizing various databases (PostgreSQL, MySQL, SQL Server, MongoDB) and adhering to secure development lifecycle principles.
 
-- 🌍  I'm based in Montclair, NJ
-- 🖥️  See my portfolio at [My Portfolio](http://jularmerme.github.io/professional-portfolio/)
+- 🌍  I'm based in Pawtucket, RI
+- 🖥️  See my portfolio at [My Portfolio](http://julianmercado.site)
 - ✉️  You can contact me at [julianmercadomeza@gmail.com](mailto:julianmercadomeza@gmail.com)
 - 🧠  I'm learning Spring Boot Microservices
 - 🤝  I'm open to collaborating on Spring Boot and Angular Projects | Microservices
@@ -33,4 +33,9 @@ src="https://img.shields.io/github/followers/jularmerme?logo=github&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/jularmerme/java-Review-Practice-and-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jularmerme&repo=java-Review-Practice-and-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/jularmerme/full-stack-java-angular"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jularmerme&repo=full-stack-java-angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/jularmerme/spring-boot-angular"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jularmerme&repo=spring-boot-angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/jularmerme/Employee-Management-System"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jularmerme&repo=Employee-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/jularmerme/java-Review-Practice-and-Projects"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jularmerme&repo=java-Review-Practice-and-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
